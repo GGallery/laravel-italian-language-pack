@@ -1,0 +1,1 @@
+Base Italian Language Pack for Laravel 11
